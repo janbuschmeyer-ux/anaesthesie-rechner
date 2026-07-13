@@ -16,7 +16,7 @@ jobs:
       VITE_BUILD_ID: ci-${{ github.sha }}
     steps:
       - uses: actions/checkout@v4
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/action-setup@v6
         with:
           version: 11.7.0
           run_install: false
