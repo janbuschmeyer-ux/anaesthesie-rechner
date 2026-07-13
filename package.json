@@ -22,7 +22,7 @@
     "decimal.js": "^10.6.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.30.0",
+    "@eslint/js": "^10.0.1",
     "@playwright/test": "^1.54.0",
     "@types/node": "^26.1.1",
     "@vitest/coverage-v8": "^3.2.0",
